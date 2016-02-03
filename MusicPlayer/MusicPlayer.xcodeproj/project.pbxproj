@@ -23,6 +23,7 @@
 		ABA717131C5C43F800E701AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABA717111C5C43F800E701AB /* Main.storyboard */; };
 		ABA717151C5C43F800E701AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABA717141C5C43F800E701AB /* Assets.xcassets */; };
 		ABA717181C5C43F800E701AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABA717161C5C43F800E701AB /* LaunchScreen.storyboard */; };
+		ABC7BBEC1C61986800B39CE5 /* 7.gif in Resources */ = {isa = PBXBuildFile; fileRef = ABC7BBEB1C61986800B39CE5 /* 7.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		ABA717141C5C43F800E701AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABA717171C5C43F800E701AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ABA717191C5C43F800E701AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABC7BBEB1C61986800B39CE5 /* 7.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = 7.gif; path = ../../../Picture/7.gif; sourceTree = "<group>"; };
 		B0140D7D75D2A1AAB01C5C26 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0D56D3B6152FC8C00E94C7B /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -128,6 +130,7 @@
 		ABA7172D1C5C445500E701AB /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				ABC7BBEB1C61986800B39CE5 /* 7.gif */,
 				AB3DCB131C5C44E200E22851 /* 3.jpeg */,
 				AB3DCB051C5C44CD00E22851 /* 1.jpeg */,
 				AB3DCB061C5C44CD00E22851 /* 情非得已.lrc */,
@@ -200,6 +203,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABC7BBEC1C61986800B39CE5 /* 7.gif in Resources */,
 				AB3DCB121C5C44CD00E22851 /* up.png in Resources */,
 				ABA717181C5C43F800E701AB /* LaunchScreen.storyboard in Resources */,
 				ABA717151C5C43F800E701AB /* Assets.xcassets in Resources */,
