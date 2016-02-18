@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A8F66EFEECF0AC430998AB387CA1B665DD8EE5C9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A8F66EFEECF0AC430998AB387CA1B665DD8EE5C9" : 0,
+    "EB77B6992BB5A1C91ABAEB6D8C1F019F8A784AA1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5499854A-7F0D-4BAA-8D74-9D632EF9D7AC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A8F66EFEECF0AC430998AB387CA1B665DD8EE5C9" : "MyStudy\/",
+    "EB77B6992BB5A1C91ABAEB6D8C1F019F8A784AA1" : "TreeTableView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TreeTableView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TreeTableVIew\/TreeTableView\/TreeTableView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wiu898\/MyIOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8F66EFEECF0AC430998AB387CA1B665DD8EE5C9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:TyroneWing\/TreeTableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB77B6992BB5A1C91ABAEB6D8C1F019F8A784AA1"
+    }
+  ]
+}
