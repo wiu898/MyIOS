@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A8F66EFEECF0AC430998AB387CA1B665DD8EE5C9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A8F66EFEECF0AC430998AB387CA1B665DD8EE5C9" : 0,
+    "EB77B6992BB5A1C91ABAEB6D8C1F019F8A784AA1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7E9C7CC1-973B-46B1-AA41-94EC8966F9AA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A8F66EFEECF0AC430998AB387CA1B665DD8EE5C9" : "MyStudy\/",
+    "EB77B6992BB5A1C91ABAEB6D8C1F019F8A784AA1" : "TreeTableView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WangYiNews",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "网易新闻库\/WangYiNews.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wiu898\/MyIOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8F66EFEECF0AC430998AB387CA1B665DD8EE5C9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:TyroneWing\/TreeTableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB77B6992BB5A1C91ABAEB6D8C1F019F8A784AA1"
+    }
+  ]
+}
